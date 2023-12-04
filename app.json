@@ -28,7 +28,8 @@
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.RECORD_AUDIO"
-      ]
+      ],
+      "package": "com.wilson715.hooli"
     },
     "web": {
       "bundler": "metro",
